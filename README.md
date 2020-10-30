@@ -17,8 +17,11 @@ An introduction to Sentiment Analysis
 3. 基于机器学习的方法
 4. 使用Python进行情感分析：以推特情感分析为例
 
-## 代码
+## Python代码下载
 
-https://github.com/chengjun/sentiment_analysis/
+https://github.com/chengjun/sentiment_analysis/archive/main.zip
 
+## Slides
+
+将在10月31日发布
 
