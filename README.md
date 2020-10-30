@@ -21,7 +21,7 @@ An introduction to Sentiment Analysis
 
 https://github.com/chengjun/sentiment_analysis/archive/main.zip
 
-## Slides
+## Slides下载链接
 
-将在10月31日发布
+https://github.com/chengjun/sentiment_analysis/issues/1
 
